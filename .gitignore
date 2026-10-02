@@ -1,0 +1,18 @@
+# secrets (FR-11)
+.env
+
+# ingested artifacts: rebuilt by `python -m src.ingest`
+data/chroma/
+data/raw/
+data/embeddings.txt
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+.venv_new/
+venv/
+
+# misc
+.streamlit/
+.DS_Store

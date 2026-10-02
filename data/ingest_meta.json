@@ -1,0 +1,212 @@
+{
+  "fetched_at": "2026-10-02",
+  "fetched_at_utc": "2026-10-02T10:58:56.202664+00:00",
+  "phase": 2,
+  "chroma_written": false,
+  "pages": [
+    {
+      "category": "large-cap",
+      "scheme_name": "HDFC Large Cap Fund \u2013 Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "slug": "hdfc-large-cap-fund-direct-growth",
+      "http_status": 200,
+      "error": null,
+      "char_count": 8733,
+      "facts_present": {
+        "expense_ratio": true,
+        "exit_load": true,
+        "sip": true,
+        "lock_in": false,
+        "riskometer": true,
+        "benchmark": true,
+        "statement": false
+      },
+      "files": {
+        "html": "data\\raw\\hdfc-large-cap-fund-direct-growth.html",
+        "txt": "data\\raw\\hdfc-large-cap-fund-direct-growth.txt"
+      },
+      "fetch": "cached",
+      "chunk_count": 12,
+      "sections_kept": [
+        "About the scheme",
+        "Exit load history by effective date",
+        "Exit load, stamp duty and tax",
+        "Fund management",
+        "Glossary: expense ratio, tax, exit load, stamp duty",
+        "Minimum investments",
+        "Scheme snapshot"
+      ],
+      "sections_dropped": [
+        "Return calculator",
+        "Holdings",
+        "Returns glossary",
+        "Returns and rankings",
+        "AMC contact details"
+      ]
+    },
+    {
+      "category": "flexi-cap",
+      "scheme_name": "HDFC Equity Fund \u2013 Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "slug": "hdfc-equity-fund-direct-growth",
+      "http_status": 200,
+      "error": null,
+      "char_count": 10587,
+      "facts_present": {
+        "expense_ratio": true,
+        "exit_load": true,
+        "sip": true,
+        "lock_in": false,
+        "riskometer": true,
+        "benchmark": true,
+        "statement": false
+      },
+      "files": {
+        "html": "data\\raw\\hdfc-equity-fund-direct-growth.html",
+        "txt": "data\\raw\\hdfc-equity-fund-direct-growth.txt"
+      },
+      "fetch": "cached",
+      "chunk_count": 12,
+      "sections_kept": [
+        "About the scheme",
+        "Exit load history by effective date",
+        "Exit load, stamp duty and tax",
+        "Fund management",
+        "Glossary: expense ratio, tax, exit load, stamp duty",
+        "Minimum investments",
+        "Scheme snapshot"
+      ],
+      "sections_dropped": [
+        "Return calculator",
+        "Holdings",
+        "Returns glossary",
+        "Returns and rankings",
+        "AMC contact details"
+      ]
+    },
+    {
+      "category": "elss",
+      "scheme_name": "HDFC ELSS Tax Saver Fund \u2013 Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "slug": "hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "http_status": 200,
+      "error": null,
+      "char_count": 8895,
+      "facts_present": {
+        "expense_ratio": true,
+        "exit_load": true,
+        "sip": true,
+        "lock_in": false,
+        "riskometer": true,
+        "benchmark": true,
+        "statement": false
+      },
+      "files": {
+        "html": "data\\raw\\hdfc-elss-tax-saver-fund-direct-plan-growth.html",
+        "txt": "data\\raw\\hdfc-elss-tax-saver-fund-direct-plan-growth.txt"
+      },
+      "fetch": "cached",
+      "chunk_count": 12,
+      "sections_kept": [
+        "About the scheme",
+        "Exit load history by effective date",
+        "Exit load, stamp duty and tax",
+        "Fund management",
+        "Glossary: expense ratio, tax, exit load, stamp duty",
+        "Minimum investments",
+        "Scheme snapshot"
+      ],
+      "sections_dropped": [
+        "Return calculator",
+        "Holdings",
+        "Returns glossary",
+        "Returns and rankings",
+        "AMC contact details"
+      ]
+    },
+    {
+      "category": "small-cap",
+      "scheme_name": "HDFC Small Cap Fund \u2013 Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+      "slug": "hdfc-small-cap-fund-direct-growth",
+      "http_status": 200,
+      "error": null,
+      "char_count": 10901,
+      "facts_present": {
+        "expense_ratio": true,
+        "exit_load": true,
+        "sip": true,
+        "lock_in": false,
+        "riskometer": true,
+        "benchmark": true,
+        "statement": false
+      },
+      "files": {
+        "html": "data\\raw\\hdfc-small-cap-fund-direct-growth.html",
+        "txt": "data\\raw\\hdfc-small-cap-fund-direct-growth.txt"
+      },
+      "fetch": "cached",
+      "chunk_count": 12,
+      "sections_kept": [
+        "About the scheme",
+        "Exit load history by effective date",
+        "Exit load, stamp duty and tax",
+        "Fund management",
+        "Glossary: expense ratio, tax, exit load, stamp duty",
+        "Minimum investments",
+        "Scheme snapshot"
+      ],
+      "sections_dropped": [
+        "Return calculator",
+        "Holdings",
+        "Returns glossary",
+        "Returns and rankings",
+        "AMC contact details"
+      ]
+    },
+    {
+      "category": "hybrid",
+      "scheme_name": "HDFC Balanced Advantage Fund \u2013 Direct Growth",
+      "source_url": "https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth",
+      "slug": "hdfc-balanced-advantage-fund-direct-growth",
+      "http_status": 200,
+      "error": null,
+      "char_count": 34528,
+      "facts_present": {
+        "expense_ratio": true,
+        "exit_load": true,
+        "sip": true,
+        "lock_in": false,
+        "riskometer": true,
+        "benchmark": true,
+        "statement": false
+      },
+      "files": {
+        "html": "data\\raw\\hdfc-balanced-advantage-fund-direct-growth.html",
+        "txt": "data\\raw\\hdfc-balanced-advantage-fund-direct-growth.txt"
+      },
+      "fetch": "cached",
+      "chunk_count": 16,
+      "sections_kept": [
+        "About the scheme",
+        "Exit load history by effective date",
+        "Exit load, stamp duty and tax",
+        "Fund management",
+        "Glossary: expense ratio, tax, exit load, stamp duty",
+        "Minimum investments",
+        "Scheme snapshot"
+      ],
+      "sections_dropped": [
+        "Return calculator",
+        "Holdings",
+        "Returns glossary",
+        "Returns and rankings",
+        "AMC contact details"
+      ]
+    }
+  ],
+  "chunked_at": "2026-10-02",
+  "chunked_at_utc": "2026-10-02T13:29:58.514049+00:00",
+  "chunk_count": 64,
+  "total_chunk_chars": 20171
+}

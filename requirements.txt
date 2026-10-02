@@ -1,0 +1,11 @@
+# HDFC Mutual Fund FAQ RAG chatbot - Stage A ingestion + Stage B query.
+# Requires 64-bit Python 3.9-3.12 (PyTorch and chromadb publish no 32-bit Windows wheels).
+
+sentence-transformers>=2.7.0,<4.0   # all-MiniLM-L6-v2, 384-d, used for chunks AND questions
+chromadb>=0.5.23,<1.0               # persisted to data/chroma/
+groq>=0.11.0                        # Stage B generator (Phase 4)
+python-dotenv>=1.0.0                # GROQ_API_KEY from .env only
+streamlit>=1.32.0                   # tiny UI (Phase 6)
+
+# Page loading uses the standard library (urllib + html.parser) in src/load.py,
+# so no requests/beautifulsoup4 dependency is needed.

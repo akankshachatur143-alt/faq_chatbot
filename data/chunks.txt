@@ -1,0 +1,581 @@
+# HDFC Mutual Fund FAQ chunks (Groww corpus, Phase 2)
+# fetched_at: 2026-10-02
+# chunker: section-aware, max 600 chars, 15% overlap - see docs/chunking.md
+# chunks: 64 | total_chars: 20171
+# fields: source_url / scheme_name / category are chunk metadata; text is embedded as-is.
+
+--- chunk_id: 0 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Scheme snapshot
+chars: 177
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Scheme snapshot: HDFC Large Cap Fund Direct Growth. Min. for SIP ₹100 Fund size (AUM) ₹39,933.36 Cr Expense ratio 1.04% Rating 4
+
+--- chunk_id: 1 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Minimum investments
+chars: 145
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Minimum investments: Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+--- chunk_id: 2 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 319
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Glossary: expense ratio, tax, exit load, stamp duty: Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+
+--- chunk_id: 3 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 358
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Glossary: expense ratio, tax, exit load, stamp duty: Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+
+--- chunk_id: 4 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 261
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Glossary: expense ratio, tax, exit load, stamp duty: Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+
+--- chunk_id: 5 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 184
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Glossary: expense ratio, tax, exit load, stamp duty: Stamp duty A form of tax payable for the purchase or sale of an asset or security.
+
+--- chunk_id: 6 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Exit load history by effective date
+chars: 260
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Exit load history by effective date: Exit Load 08 May 2015 Exit load of 1% if redeemed within 1 year 16 Feb 2015 Exit load of 1% if redeemed within 18 months 01 Jan 2013 Exit load of 1% if redeemed within 1 year
+
+--- chunk_id: 7 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Exit load, stamp duty and tax
+chars: 379
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Exit load, stamp duty and tax: Exit load Exit load of 1% if redeemed within 1 year Stamp duty on investment: 0.005% (from July 1st, 2020) from July 1st 2020 Tax implication If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- chunk_id: 8 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Fund management
+chars: 417
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Fund management: RB Rahul Baijal Jul 2022 - Present Education Mr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of Engineering Experience Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.
+
+--- chunk_id: 9 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: Fund management
+chars: 321
+
+HDFC Large Cap Fund – Direct Growth (large-cap). Fund management: DM Dhruv Muchhal Jun 2023 - Present Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+--- chunk_id: 10 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: About the scheme
+chars: 564
+
+HDFC Large Cap Fund – Direct Growth (large-cap). About the scheme: HDFC Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Rahul Baijal is the Current Fund Manager of HDFC Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹1,151.92. The HDFC Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
+
+--- chunk_id: 11 ---
+scheme: HDFC Large Cap Fund – Direct Growth
+category: large-cap
+source_url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+section: About the scheme
+chars: 367
+
+HDFC Large Cap Fund – Direct Growth (large-cap). About the scheme: Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ; Investment Objective The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies. Fund benchmark NIFTY 100 Total Return Index
+
+--- chunk_id: 12 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Scheme snapshot
+chars: 176
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Scheme snapshot: HDFC Flexi Cap Direct Plan Growth. Min. for SIP ₹100 Fund size (AUM) ₹1,13,606.46 Cr Expense ratio 0.77% Rating 5
+
+--- chunk_id: 13 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Minimum investments
+chars: 142
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Minimum investments: Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+--- chunk_id: 14 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 316
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Glossary: expense ratio, tax, exit load, stamp duty: Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+
+--- chunk_id: 15 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 355
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Glossary: expense ratio, tax, exit load, stamp duty: Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+
+--- chunk_id: 16 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 258
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Glossary: expense ratio, tax, exit load, stamp duty: Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+
+--- chunk_id: 17 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 181
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Glossary: expense ratio, tax, exit load, stamp duty: Stamp duty A form of tax payable for the purchase or sale of an asset or security.
+
+--- chunk_id: 18 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Exit load history by effective date
+chars: 146
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Exit load history by effective date: Exit Load 01 Jan 2013 Exit load of 1% if redeemed within 1 year
+
+--- chunk_id: 19 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Exit load, stamp duty and tax
+chars: 376
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Exit load, stamp duty and tax: Exit load Exit load of 1% if redeemed within 1 year Stamp duty on investment: 0.005% (from July 1st, 2020) from July 1st 2020 Tax implication If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- chunk_id: 20 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Fund management
+chars: 318
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Fund management: DM Dhruv Muchhal Jun 2023 - Present Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+--- chunk_id: 21 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: Fund management
+chars: 392
+
+HDFC Equity Fund – Direct Growth (flexi-cap). Fund management: AG Amit Ganatra Feb 2026 - Present Education Mr. Ganatra holds a Commerce degree and is a Charted Accountant. He is also a Chartered Financial Analyst from AIMR. Experience Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.
+
+--- chunk_id: 22 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: About the scheme
+chars: 562
+
+HDFC Equity Fund – Direct Growth (flexi-cap). About the scheme: HDFC Flexi Cap Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Flexi Cap Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹2,150.08. The HDFC Flexi Cap Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
+
+--- chunk_id: 23 ---
+scheme: HDFC Equity Fund – Direct Growth
+category: flexi-cap
+source_url: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+section: About the scheme
+chars: 387
+
+HDFC Equity Fund – Direct Growth (flexi-cap). About the scheme: Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ; Investment Objective The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments. Fund benchmark NIFTY 500 Total Return Index
+
+--- chunk_id: 24 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Scheme snapshot
+chars: 192
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Scheme snapshot: HDFC ELSS Tax Saver Fund Direct Plan Growth. Min. for SIP ₹500 Fund size (AUM) ₹15,991.78 Cr Expense ratio 1.21% Rating 5
+
+--- chunk_id: 25 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Minimum investments
+chars: 150
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Minimum investments: Min. for 1st investment ₹500 Min. for 2nd investment ₹500 Min. for SIP ₹500
+
+--- chunk_id: 26 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 324
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Glossary: expense ratio, tax, exit load, stamp duty: Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+
+--- chunk_id: 27 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 363
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Glossary: expense ratio, tax, exit load, stamp duty: Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+
+--- chunk_id: 28 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 266
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Glossary: expense ratio, tax, exit load, stamp duty: Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+
+--- chunk_id: 29 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 189
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Glossary: expense ratio, tax, exit load, stamp duty: Stamp duty A form of tax payable for the purchase or sale of an asset or security.
+
+--- chunk_id: 30 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Exit load history by effective date
+chars: 115
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Exit load history by effective date: Exit Load 01 Jan 2013 --
+
+--- chunk_id: 31 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Exit load, stamp duty and tax
+chars: 346
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Exit load, stamp duty and tax: Exit load Nil Stamp duty on investment: 0.005% (from July 1st, 2020) from July 1st 2020 Tax implication If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- chunk_id: 32 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Fund management
+chars: 369
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Fund management: AK Amar Kalkundrikar Dec 2025 - Present Education Mr. Kalkundrikar has done B.Com, CA, CFA, and MBA from Columbia Business School. Experience Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.
+
+--- chunk_id: 33 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: Fund management
+chars: 326
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). Fund management: DM Dhruv Muchhal Jun 2023 - Present Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+--- chunk_id: 34 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: About the scheme
+chars: 568
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). About the scheme: HDFC ELSS Tax Saver Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Amar Kalkundrikar is the Current Fund Manager of HDFC ELSS Tax Saver Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹1,405.49. The HDFC ELSS Tax Saver Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹500.
+
+--- chunk_id: 35 ---
+scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+category: elss
+source_url: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+section: About the scheme
+chars: 355
+
+HDFC ELSS Tax Saver Fund – Direct Plan Growth (elss). About the scheme: Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ; Investment Objective The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments. Fund benchmark NIFTY 500 Total Return Index
+
+--- chunk_id: 36 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Scheme snapshot
+chars: 177
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Scheme snapshot: HDFC Small Cap Fund Direct Growth. Min. for SIP ₹100 Fund size (AUM) ₹41,890.86 Cr Expense ratio 0.79% Rating 3
+
+--- chunk_id: 37 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Minimum investments
+chars: 145
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Minimum investments: Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+--- chunk_id: 38 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 319
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Glossary: expense ratio, tax, exit load, stamp duty: Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+
+--- chunk_id: 39 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 358
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Glossary: expense ratio, tax, exit load, stamp duty: Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+
+--- chunk_id: 40 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 261
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Glossary: expense ratio, tax, exit load, stamp duty: Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+
+--- chunk_id: 41 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 184
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Glossary: expense ratio, tax, exit load, stamp duty: Stamp duty A form of tax payable for the purchase or sale of an asset or security.
+
+--- chunk_id: 42 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Exit load history by effective date
+chars: 485
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Exit load history by effective date: Exit Load 08 May 2015 Exit load of 1% if redeemed within 1 year 18 Dec 2014 Exit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months 01 Jul 2014 Exit load of 2% if redeemed within 12 months and 1% if redeemed after 12 months but before 18 months 01 Jan 2013 Exit load of 1% if redeemed within 1 year
+
+--- chunk_id: 43 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Exit load, stamp duty and tax
+chars: 379
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Exit load, stamp duty and tax: Exit load Exit load of 1% if redeemed within 1 year Stamp duty on investment: 0.005% (from July 1st, 2020) from July 1st 2020 Tax implication If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- chunk_id: 44 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Fund management
+chars: 321
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Fund management: DM Dhruv Muchhal Jun 2023 - Present Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+--- chunk_id: 45 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: Fund management
+chars: 301
+
+HDFC Small Cap Fund – Direct Growth (small-cap). Fund management: CS Chirag Setalvad Jun 2014 - Present Education Mr. Setalvad is a B. Sc and MBA from University of North Carolina. Experience Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.
+
+--- chunk_id: 46 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: About the scheme
+chars: 563
+
+HDFC Small Cap Fund – Direct Growth (small-cap). About the scheme: HDFC Small Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Dhruv Muchhal is the Current Fund Manager of HDFC Small Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹155.01. The HDFC Small Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
+
+--- chunk_id: 47 ---
+scheme: HDFC Small Cap Fund – Direct Growth
+category: small-cap
+source_url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+section: About the scheme
+chars: 375
+
+HDFC Small Cap Fund – Direct Growth (small-cap). About the scheme: Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit load of 1% if redeemed within 1 year ; Investment Objective The scheme seeks to provide long-term capital appreciation /income by investing predominantly in Small-Cap companies. Fund benchmark BSE 250 SmallCap Total Return Index
+
+--- chunk_id: 48 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Scheme snapshot
+chars: 194
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Scheme snapshot: HDFC Balanced Advantage Fund Direct Growth. Min. for SIP ₹100 Fund size (AUM) ₹1,07,295.79 Cr Expense ratio 0.78% Rating 5
+
+--- chunk_id: 49 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Minimum investments
+chars: 151
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Minimum investments: Min. for 1st investment ₹100 Min. for 2nd investment ₹100 Min. for SIP ₹100
+
+--- chunk_id: 50 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 325
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Glossary: expense ratio, tax, exit load, stamp duty: Expense ratio A fee payable to a mutual fund house for managing your mutual fund investments. It is the total percentage of a company's fund assets used for administrative, management, advertising, and other expenses.
+
+--- chunk_id: 51 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 364
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Glossary: expense ratio, tax, exit load, stamp duty: Tax A percentage of your capital gains payable to the government upon exiting your mutual fund investments. Taxation is categorized as long-term capital gains (LTCG) and short-term capital gains (STCG) depending on your holding period and the type of fund.
+
+--- chunk_id: 52 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 267
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Glossary: expense ratio, tax, exit load, stamp duty: Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.
+
+--- chunk_id: 53 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Glossary: expense ratio, tax, exit load, stamp duty
+chars: 190
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Glossary: expense ratio, tax, exit load, stamp duty: Stamp duty A form of tax payable for the purchase or sale of an asset or security.
+
+--- chunk_id: 54 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Exit load history by effective date
+chars: 494
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Exit load history by effective date: Exit Load 01 Jun 2018 Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year. 08 May 2015 Exit load of 1% if redeemed within 1 year 18 Dec 2014 Exit load of 2% if redeemed within 12 months, 1% if redeemed after 12 months but within 24 months and 0.50% if redeemed after 24 months but within 36 months 01 Jan 2013 Exit load of 1% if redeemed within 1 year
+
+--- chunk_id: 55 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Exit load, stamp duty and tax
+chars: 447
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Exit load, stamp duty and tax: Exit load Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year. Stamp duty on investment: 0.005% (from July 1st, 2020) from July 1st 2020 Tax implication If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.
+
+--- chunk_id: 56 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Fund management
+chars: 387
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Fund management: AB Anil Bamboli Jul 2022 - Present Education Mr. Bamboli is a CFA from Association for Investment Management and Research, U.S.A, Masters in Management Studies (Finance) and a Graduate in Cost and Works Accountant from ICWAI. Experience Prior to joining HDFC AMC he has worked with SBI Fund Management for 11 years.
+
+--- chunk_id: 57 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Fund management
+chars: 334
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Fund management: AA Arun Agarwal Oct 2022 - Present Education Mr. Agarwal is a B.Com. and Chartered Accountant Experience Prior to joining HDFC Asset Management Company Limited, he has worked with SBI Funds Management Pvt. Ltd., ICICI Bank Limited, UTI Asset Management Pvt. Ltd.
+
+--- chunk_id: 58 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Fund management
+chars: 327
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Fund management: DM Dhruv Muchhal Jun 2023 - Present Education Mr. Dhruv has done B.Com, CA and CFA Experience Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells
+
+--- chunk_id: 59 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Fund management
+chars: 260
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Fund management: NM Nandita Menezes Mar 2025 - Present Education CA (ICAI, INDIA), B.Com (University of Mumbai) Experience Prior to joining HDFC AMC, she was associated with S.V. Ghatalia & Associates LLP.
+
+--- chunk_id: 60 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Fund management
+chars: 353
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Fund management: GA Gopal Agrawal Jul 2022 - Present Education Mr.Agrawal is a B.E and MBM. Experience Prior to joining HDFC Mutual Fund he has worked with DSP Mutual Fund, Tata AMC, Mirae Asset Mutual Fund ,SBI Mutual Fund, Kotak Securities, HDFC Securities, IDBI Capital, UTI Securities and IPCL.
+
+--- chunk_id: 61 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: Fund management
+chars: 240
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). Fund management: ID Ihab Dalwai Sep 2026 - Present Education Mr. Dalwai is a Chartered Accountant. Experience Prior to joining the HDFC AMC, he was associated with ICICI Prudential AMC.
+
+--- chunk_id: 62 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: About the scheme
+chars: 595
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). About the scheme: HDFC Balanced Advantage Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by HDFC Mutual Fund. This scheme was made available to investors on 10 Dec 1999. Anil Bamboli is the Current Fund Manager of HDFC Balanced Advantage Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹9,86,237 Cr and the Latest NAV as of 01 Oct 2026 is ₹546.11. The HDFC Balanced Advantage Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100.
+
+--- chunk_id: 63 ---
+scheme: HDFC Balanced Advantage Fund – Direct Growth
+category: hybrid
+source_url: https://groww.in/mutual-funds/hdfc-balanced-advantage-fund-direct-growth
+section: About the scheme
+chars: 451
+
+HDFC Balanced Advantage Fund – Direct Growth (hybrid). About the scheme: Minimum SIP Investment is set to ₹100. Minimum Lumpsum Investment is ₹100. Exit Load for units in excess of 15% of the investment,1% will be charged for redemption within 1 year. ; Investment Objective The Scheme seeks to provide long term capital appreciation / income from a dynamic mix of equity and debt investments. Fund benchmark NIFTY 50 Hybrid Composite Debt 50:50 Index
