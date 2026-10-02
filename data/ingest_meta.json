@@ -1,8 +1,8 @@
 {
   "fetched_at": "2026-10-02",
   "fetched_at_utc": "2026-10-02T10:58:56.202664+00:00",
-  "phase": 2,
-  "chroma_written": false,
+  "phase": 3,
+  "chroma_written": true,
   "pages": [
     {
       "category": "large-cap",
@@ -206,7 +206,15 @@
     }
   ],
   "chunked_at": "2026-10-02",
-  "chunked_at_utc": "2026-10-02T13:29:58.514049+00:00",
+  "chunked_at_utc": "2026-10-02T18:29:13.242232+00:00",
   "chunk_count": 64,
-  "total_chunk_chars": 20171
+  "total_chunk_chars": 20171,
+  "chroma_dir": "data\\chroma",
+  "collection_name": "hdfc_mf_faq",
+  "collection_count": 64,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "embeddings_txt": "data\\embeddings.txt",
+  "embedded_at": "2026-10-02",
+  "embedded_at_utc": "2026-10-02T18:30:14.007363+00:00"
 }
