@@ -1,8 +1,12 @@
 # secrets (FR-11)
 .env
 
-# ingested artifacts: rebuilt by `python -m src.ingest`
-data/chroma/
+# data/chroma/ is deliberately NOT ignored: it is the prebuilt vector store
+# (5.9 MB) and deploy targets such as Render need it in the image, because
+# their runtime filesystem is ephemeral and the start command must not ingest.
+# Rebuild it with `python -m src.ingest` and commit the result.
+#
+# other ingested artifacts, rebuilt on demand and not needed to answer queries
 data/raw/
 data/embeddings.txt
 

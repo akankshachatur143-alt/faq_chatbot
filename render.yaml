@@ -1,0 +1,35 @@
+# Render blueprint for the HDFC Mutual Fund FAQ assistant.
+#
+# The vector store (data/chroma/) is committed to the repo on purpose, so the
+# build does not scrape Groww or embed anything. A Render runtime filesystem is
+# ephemeral, so a store created in the start command would vanish on every
+# restart; shipping it in the image avoids that entirely.
+
+services:
+  - type: web
+    name: faq-chatbot
+    runtime: python
+    # free/starter (512 MB) OOMs while MiniLM embeds a question. Use standard
+    # (2 GB) at minimum, and expect the CPU-only torch install to be tight on
+    # disk -- bump to a larger plan if the build runs out of space.
+    plan: standard
+    buildCommand: >-
+      pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+      && pip install --no-cache-dir -r requirements.txt
+    startCommand: >-
+      streamlit run src/app.py
+      --server.port $PORT
+      --server.address 0.0.0.0
+      --server.headless true
+      --browser.gatherUsageStats false
+    healthCheckPath: /_stcore/health
+    envVars:
+      # Not in git (.env is gitignored). Set the real value in the Render
+      # dashboard; src/query.py api_key() falls back to os.environ.
+      - key: GROQ_API_KEY
+        sync: false
+      - key: GROQ_MODEL
+        value: openai/gpt-oss-120b
+      # Must match .python-version; requirements need 3.9-3.12.
+      - key: PYTHON_VERSION
+        value: "3.11.9"
