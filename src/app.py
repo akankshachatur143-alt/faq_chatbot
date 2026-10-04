@@ -94,10 +94,15 @@ def render_sidebar() -> None:
 
 
 def store_is_ready() -> bool:
-    """Read-only probe: is there a persisted collection to query?"""
+    """Read-only probe: is there a persisted collection to query?
+
+    Every failure counts as "not ready". main() returns before it reaches
+    st.chat_input() when this is False, so an exception escaping here would
+    blank the whole page, including the text box.
+    """
     try:
         return get_collection() is not None
-    except VectorStoreNotReady:
+    except Exception:
         return False
 
 

@@ -148,19 +148,23 @@ def get_groq_client() -> Any:
 @lru_cache(maxsize=1)
 def get_collection() -> Any:
     """Open the persisted collection for reading; never called at import time."""
-    import chromadb
-    from chromadb.config import Settings
-
     if not CHROMA_DIR.exists():
         raise VectorStoreNotReady(INGEST_HINT)
     try:
+        # The imports live inside the try on purpose: a missing or broken
+        # chromadb install must surface as VectorStoreNotReady like every other
+        # "cannot read the store" case, not as a bare ImportError that escapes
+        # the UI's readiness probe and kills the page.
+        import chromadb
+        from chromadb.config import Settings
+
         client = chromadb.PersistentClient(
             path=str(CHROMA_DIR), settings=Settings(anonymized_telemetry=False)
         )
         collection = client.get_collection(
             name=COLLECTION_NAME, embedding_function=None
         )
-    except Exception as exc:  # missing directory, missing collection, bad path
+    except Exception as exc:  # broken install, missing collection, bad path, locked db
         raise VectorStoreNotReady(f"{INGEST_HINT} ({exc})") from exc
     if collection.count() == 0:
         raise VectorStoreNotReady(INGEST_HINT)
